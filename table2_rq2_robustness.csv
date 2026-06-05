@@ -1,0 +1,5 @@
+Model,Attack_Method,Attack_Type,Accuracy,Precision,F1_Score,AUC_ROC,Performance_Drop
+TF-IDF+LR,Baseline,None,0.83,0.617,0.72,0.93,-
+TF-IDF+LR,Synonym-Swap,Lexical Perturbation,0.842,0.644,0.727,0.919,--0.9%
+TF-IDF+LR,Char-Typo,Char Perturbation,0.819,0.63,0.657,0.887,-8.8%
+TF-IDF+LR,Greenwash-Injection,Greenwash Injection,0.543,0.356,0.525,0.919,-27.1%

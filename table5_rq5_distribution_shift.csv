@@ -1,0 +1,12 @@
+Held_Out_Sector,N_test,F1_InDist,F1_HeldOut,Delta,Drop_Pct,Shift_Severity
+Basic Materials,19,0.783,0.706,+9.8%,9.8,Moderate
+Communication Services,14,0.783,1.0,-27.8%,-27.8,Minimal
+Consumer Cyclical,51,0.783,0.667,+14.8%,14.8,Moderate
+Consumer Defensive,33,0.783,0.833,-6.5%,-6.5,Minimal
+Energy,20,0.783,0.966,-23.4%,-23.4,Minimal
+Financial Services,63,0.783,0.0,+100.0%,100.0,Severe
+Healthcare,51,0.783,0.4,+48.9%,48.9,Severe
+Industrials,57,0.783,0.857,-9.5%,-9.5,Minimal
+Real Estate,21,0.783,0.0,+100.0%,100.0,Severe
+Technology,47,0.783,1.0,-27.8%,-27.8,Minimal
+Utilities,27,0.783,0.909,-16.2%,-16.2,Minimal

@@ -1,0 +1,7 @@
+Model_Name,Architecture,Primary_Task,Accuracy,Proof_Gen_Time_s_litstub,ZK_Protocol,Regulation_Target,Audit_Completeness,Open_Source,Compute_Risk,Compliance_Status
+Surrogate-RF (this nb),RandomForest,Risk-Level,0.871,0.31,Bulletproofs,SFDR,0.84,1,Low,Compliant
+FinBERT-ESG,Transformer,E-Score,0.874,1.24,Plonk,GDPR Art.22,0.92,1,Medium,Partial
+ESG-BERT,Transformer,Sentiment,0.891,0.98,Groth16,EU AI Act Art.13,0.96,1,Low,Compliant
+LLaMA-ESG,LLM,Summarization,0.863,8.74,STARK,EU AI Act Art.13,0.89,1,High,Partial
+MSCI Proxy,Proprietary NN,Rating,0.921,2.41,Plonk,EU AI Act Art.9,0.97,0,Medium,Non-Compliant
+Bloomberg AI,Proprietary LLM,Prediction,0.908,4.12,None,None,0.94,0,High,Non-Compliant

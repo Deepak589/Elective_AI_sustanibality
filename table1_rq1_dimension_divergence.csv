@@ -1,0 +1,404 @@
+Symbol,Name,Sector,Divergence_Index,Divergence_Category
+EMN,Eastman Chemical Company,Basic Materials,13.99,Moderate
+DPZ,Domino's Pizza Inc.,Consumer Cyclical,15.09,Moderate
+DVA,Davita Inc.,Healthcare,25.09,High
+DRI,"Darden Restaurants, Inc.",Consumer Cyclical,23.51,High
+ZTS,Zoetis Inc.,Healthcare,9.15,Low
+ZBH,"Zimmer Biomet Holdings, Inc.",Healthcare,21.04,High
+YUM,"Yum! Brands, Inc.",Consumer Cyclical,17.81,Moderate
+XYL,Xylem Inc,Industrials,15.04,Moderate
+XEL,"Xcel Energy, Inc.",Utilities,18.0,Moderate
+WYNN,Wynn Resorts Ltd,Consumer Cyclical,17.59,Moderate
+WTW,Willis Towers Watson Public Limited Companys,Financial Services,19.66,High
+WMB,Williams Companies Inc.,Energy,18.6,Moderate
+WY,Weyerhaeuser Company,Real Estate,14.14,Moderate
+WDC,Western Digital Corp.,Technology,8.01,Low
+WELL,Welltower Inc.,Real Estate,7.63,Low
+WFC,Wells Fargo & Co.,Financial Services,43.44,High
+WEC,"Wec Energy Group, Inc.",Utilities,24.16,High
+WM,"Waste Management, Inc.",Industrials,13.02,Low
+WMT,Walmart Inc.,Consumer Defensive,15.91,Moderate
+WBA,"Walgreens Boots Alliance, Inc",Healthcare,20.44,High
+WAB,Wabtec Inc.,Industrials,15.24,Moderate
+GWW,"W.W. Grainger, Inc.",Industrials,3.51,Low
+WRB,W.R. Berkley Corporation,Financial Services,24.66,High
+VMC,Vulcan Materials Company,Basic Materials,12.93,Low
+V,Visa Inc.,Financial Services,18.1,Moderate
+VRTX,Vertex Pharmaceuticals Inc,Healthcare,27.06,High
+VZ,Verizon Communications,Communication Services,18.06,Moderate
+VRSK,"Verisk Analytics, Inc.",Industrials,25.49,High
+VRSN,Verisign Inc,Technology,19.06,Moderate
+VLO,Valero Energy Corporation,Energy,29.92,High
+UHS,"Universal Health Services, Inc. Class B",Healthcare,32.7,High
+UNH,Unitedhealth Group Incorporated,Healthcare,22.94,High
+URI,"United Rentals, Inc.",Industrials,10.84,Low
+UPS,"United Parcel Service, Inc. Class B",Industrials,10.11,Low
+UAL,"United Airlines Holdings, Inc.",Industrials,19.1,Moderate
+UNP,Union Pacific Corp.,Industrials,12.25,Low
+ULTA,"Ulta Beauty, Inc.",Consumer Cyclical,9.71,Low
+UDR,"Udr, Inc.",Real Estate,8.62,Low
+USB,U.S. Bancorp,Financial Services,27.19,High
+TSN,"Tyson Foods, Inc.",Consumer Defensive,14.55,Moderate
+TDG,Transdigm Group Incorporated,Industrials,22.71,High
+TT,Trane Technologies Plc,Industrials,5.42,Low
+TSCO,Tractor Supply Co,Consumer Cyclical,11.28,Low
+TJX,"Tjx Companies, Inc.",Consumer Cyclical,11.46,Low
+TMO,"Thermo Fisher Scientific, Inc.",Healthcare,18.69,Moderate
+DIS,The Walt Disney Company,Communication Services,15.71,Moderate
+TRV,"The Travelers Companies, Inc.",Financial Services,22.58,High
+SO,The Southern Company,Utilities,16.48,Moderate
+SHW,The Sherwin-Williams Company,Basic Materials,17.58,Moderate
+MOS,The Mosaic Company,Basic Materials,13.63,Low
+KR,The Kroger Co.,Consumer Defensive,14.76,Moderate
+KHC,The Kraft Heinz Company,Consumer Defensive,18.4,Moderate
+SJM,The J.M. Smucker Company,Consumer Defensive,18.38,Moderate
+IPG,"The Interpublic Group of Companies, Inc.",Communication Services,9.88,Low
+HSY,The Hershey Company,Consumer Defensive,16.65,Moderate
+HIG,"The Hartford Financial Services Group, Inc.",Financial Services,14.84,Moderate
+EL,The Estee Lauder Companies Inc. Class A,Consumer Defensive,10.46,Low
+COO,"The Cooper Companies, Inc.",Healthcare,11.06,Low
+CI,The Cigna Group,Healthcare,11.55,Low
+SCHW,The Charles Schwab Corporation,Financial Services,18.92,Moderate
+ALL,The Allstate Corporation,Financial Services,19.97,High
+TXT,"Textron, Inc.",Industrials,22.32,High
+TXN,Texas Instruments Incorporated,Technology,3.52,Low
+TSLA,"Tesla, Inc.",Consumer Cyclical,21.42,High
+TFX,Teleflex Incorporated,Healthcare,23.01,High
+TGT,Target Corporation,Consumer Defensive,19.56,High
+TRGP,Targa Resources Corp.,Energy,26.87,High
+TPR,"Tapestry, Inc.",Consumer Cyclical,13.73,Low
+TMUS,"T-Mobile Us, Inc.",Communication Services,19.7,High
+TROW,T Rowe Price Group Inc,Financial Services,15.83,Moderate
+SYY,Sysco Corporation,Consumer Defensive,7.41,Low
+SYF,Synchrony Financial,Financial Services,17.16,Moderate
+SYK,Stryker Corporation,Healthcare,19.4,Moderate
+STLD,Steel Dynamics Inc,Basic Materials,26.19,High
+STT,State Street Corporation,Financial Services,26.65,High
+SBUX,Starbucks Corp,Consumer Cyclical,25.23,High
+SWK,"Stanley Black & Decker, Inc.",Industrials,15.06,Moderate
+LUV,Southwest Airlines Co.,Industrials,18.88,Moderate
+SNA,Snap-on Incorporated,Industrials,16.03,Moderate
+SWKS,Skyworks Solutions Inc,Technology,20.37,High
+SPG,"Simon Property Group, Inc.",Real Estate,8.52,Low
+SRE,Sempra,Utilities,13.41,Low
+STX,Seagate Technology Holdings Plcs,Technology,6.72,Low
+SLB,Schlumberger Limited,Energy,13.93,Low
+CRM,"Salesforce, Inc.",Technology,13.11,Low
+SPGI,S&p Global Inc.,Financial Services,13.89,Low
+RCL,Royal Caribbean Group,Consumer Cyclical,15.7,Moderate
+ROST,Ross Stores Inc,Consumer Cyclical,16.61,Moderate
+ROL,"Rollins, Inc.",Consumer Cyclical,20.06,High
+ROK,"Rockwell Automation, Inc.",Industrials,4.52,Low
+RHI,Robert Half Inc.,Industrials,14.77,Moderate
+RVTY,"Revvity, Inc.",Healthcare,16.55,Moderate
+RMD,Resmed Inc.,Healthcare,25.31,High
+RSG,Republic Services Inc.,Industrials,20.94,High
+RF,Regions Financial Corp.,Financial Services,11.1,Low
+REGN,Regeneron Pharmaceuticals Inc,Healthcare,18.73,Moderate
+O,Realty Income Corporation,Real Estate,3.82,Low
+RJF,"Raymond James Financial, Inc.",Financial Services,24.03,High
+RL,Ralph Lauren Corporation,Consumer Cyclical,11.87,Low
+DGX,Quest Diagnostics Inc.,Healthcare,25.24,High
+PWR,"Quanta Services, Inc.",Industrials,18.64,Moderate
+QCOM,Qualcomm Inc,Technology,16.15,Moderate
+PHM,"Pultegroup, Inc.",Consumer Cyclical,10.66,Low
+PSA,Public Storage,Real Estate,8.54,Low
+PEG,Public Service Enterprise Group Incorporated,Utilities,15.33,Moderate
+PRU,"Prudential Financial, Inc.",Financial Services,22.71,High
+PLD,"Prologis, Inc.",Real Estate,5.45,Low
+PGR,Progressive Corporation,Financial Services,16.14,Moderate
+PG,Procter & Gamble Company,Consumer Defensive,13.67,Low
+PFG,"Principal Financial Group, Inc.",Financial Services,14.04,Moderate
+PPL,Ppl Corporation,Utilities,23.49,High
+PPG,"Ppg Industries, Inc.",Basic Materials,9.97,Low
+PNC,Pnc Financial Services Group,Financial Services,22.47,High
+PNW,Pinnacle West Capital Corporation,Utilities,26.29,High
+PSX,Phillips 66,Energy,27.79,High
+PM,Philip Morris International Inc.,Consumer Defensive,20.26,High
+PCG,Pg&e Corporation,Utilities,27.71,High
+PFE,Pfizer Inc.,Healthcare,21.13,High
+PEP,"Pepsico, Inc.",Consumer Defensive,15.75,Moderate
+PNR,Pentair Plc,Industrials,17.43,Moderate
+PYPL,"Paypal Holdings, Inc.",Financial Services,11.9,Low
+PAYX,Paychex Inc,Industrials,12.52,Low
+PH,Parker-Hannifin Corporation,Industrials,17.96,Moderate
+PARA,Paramount Global Class B,Communication Services,20.43,High
+PANW,"Palo Alto Networks, Inc.",Technology,14.33,Moderate
+PKG,Packaging Corp of America,Consumer Cyclical,27.2,High
+PCAR,Paccar Inc,Industrials,9.07,Low
+ORCL,Oracle Corp,Technology,13.04,Low
+OKE,"Oneok, Inc.",Energy,25.57,High
+ON,On Semiconductor Corp,Technology,20.14,High
+OMC,Omnicom Group Inc.,Communication Services,19.12,Moderate
+OXY,Occidental Petroleum Corporation,Energy,35.77,High
+ORLY,"O'reilly Automotive, Inc.",Consumer Cyclical,16.09,Moderate
+NXPI,Nxp Semiconductors N.v.,Technology,14.19,Moderate
+NVR,"Nvr, Inc.",Consumer Cyclical,14.87,Moderate
+NVDA,Nvidia Corp,Technology,6.62,Low
+NUE,Nucor Corporation,Basic Materials,16.66,Moderate
+NRG,"Nrg Energy, Inc.",Utilities,22.27,High
+NCLH,Norwegian Cruise Line Holdings Ltd.s,Consumer Cyclical,12.21,Low
+NOC,Northrop Grumman Corp.,Industrials,20.69,High
+NTRS,Northern Trust Corp,Financial Services,19.45,Moderate
+NSC,Norfolk Southern Corp.,Industrials,15.73,Moderate
+NDSN,Nordson Corp,Industrials,21.93,High
+NI,Nisource Inc.,Utilities,17.69,Moderate
+NKE,"Nike, Inc.",Consumer Cyclical,17.52,Moderate
+NEE,"Nextra Energy, Inc.",Utilities,9.86,Low
+NWSA,News Corporation Class A,Communication Services,11.3,Low
+NEM,Newmont Corporation,Basic Materials,15.12,Moderate
+NFLX,Netflix Inc,Communication Services,15.79,Moderate
+NTAP,"Netapp, Inc",Technology,13.43,Low
+NDAQ,"Nasdaq, Inc.",Financial Services,14.26,Moderate
+MSCI,"Msci, Inc.",Financial Services,14.9,Moderate
+MSI,"Motorola Solutions, Inc.",Technology,8.9,Low
+MS,Morgan Stanley,Financial Services,22.82,High
+MCO,Moody's Corporation,Financial Services,10.66,Low
+MNST,Monster Beverage Corporation,Consumer Defensive,18.68,Moderate
+MDLZ,"Mondelez International, Inc. Class A",Consumer Defensive,15.14,Moderate
+TAP,Molson Coors Beverage Company Class B,Consumer Defensive,8.67,Low
+MHK,"Mohawk Industries, Inc.",Consumer Cyclical,8.07,Low
+MAA,"Mid-America Apartment Communities, Inc.",Real Estate,8.67,Low
+MSFT,Microsoft Corp,Technology,18.7,Moderate
+MU,"Micron Technology, Inc.",Technology,5.75,Low
+MCHP,Microchip Technology Inc,Technology,25.48,High
+MGM,Mgm Resorts International,Consumer Cyclical,22.64,High
+MET,"Metlife, Inc.",Financial Services,14.09,Moderate
+META,"Meta Platforms, Inc. Class A",Communication Services,36.27,High
+MRK,"Merck & Co., Inc.",Healthcare,18.97,Moderate
+MDT,Medtronic Plc,Healthcare,22.92,High
+MCK,Mckesson Corporation,Healthcare,18.34,Moderate
+MCD,Mcdonald's Corporation,Consumer Cyclical,17.4,Moderate
+MKC,"Mccormick & Company, Incorporated Non-Vtg Cs",Consumer Defensive,14.72,Moderate
+MA,Mastercard Incorporated,Financial Services,28.0,High
+MAS,Masco Corporation,Industrials,15.96,Moderate
+MLM,Martin Marietta Materials,Basic Materials,21.44,High
+MMC,"Marsh & Mclennan Companies, Inc.",Financial Services,21.21,High
+MAR,Marriot International Class A,Consumer Cyclical,19.53,High
+MPC,Marathon Petroleum Corporation,Energy,23.18,High
+MRO,Marathon Oil Corporation,Energy,27.57,High
+MTB,M&t Bank Corp.,Financial Services,29.85,High
+LYB,Lyondellbasell Industries N.v. Class A,Basic Materials,21.21,High
+LULU,Lululemon Athletica Inc.,Consumer Cyclical,15.22,Moderate
+LOW,Lowe's Companies Inc.,Consumer Cyclical,10.43,Low
+L,Loews Corporation,Financial Services,20.85,High
+LMT,Lockheed Martin Corp.,Industrials,18.42,Moderate
+LKQ,Lkq Corporation,Consumer Cyclical,9.5,Low
+LEN,Lennar Corporation Class A,Consumer Cyclical,12.79,Low
+LDOS,"Leidos Holdings, Inc.",Technology,11.42,Low
+LVS,Las Vegas Sands Corp.,Consumer Cyclical,11.41,Low
+LRCX,Lam Research Corp,Technology,7.89,Low
+LH,Labcorp Holdings Inc.,Healthcare,21.94,High
+KMI,"Kinder Morgan, Inc.",Energy,13.51,Low
+KMB,Kimberly-Clark Corp.,Consumer Defensive,9.61,Low
+KEYS,"Keysight Technologies, Inc.",Technology,4.24,Low
+KEY,Keycorp,Financial Services,23.27,High
+K,Kellanova,Consumer Defensive,21.43,High
+JNPR,Juniper Networks Inc,Technology,12.79,Low
+JPM,Jpmorgan Chase & Co.,Financial Services,28.79,High
+JCI,Johnson Controls International Plc,Industrials,16.71,Moderate
+JNJ,Johnson & Johnson,Healthcare,32.84,High
+JBHT,Jb Hunt Transport Services Inc,Industrials,10.93,Low
+J,Jacobs Solutions Inc.,Industrials,18.11,Moderate
+IRM,Iron Mountain Inc.,Real Estate,4.91,Low
+IQV,Iqvia Holdings Inc.,Healthcare,16.32,Moderate
+IVZ,Invesco Ltd,Financial Services,21.63,High
+ISRG,Intuitive Surgical Inc.,Healthcare,17.61,Moderate
+INTU,Intuit Inc,Technology,18.48,Moderate
+IP,International Paper Co.,Consumer Cyclical,24.28,High
+IFF,International Flavors & Fragrances Inc.,Basic Materials,14.22,Moderate
+IBM,International Business Machines Corporation,Technology,8.36,Low
+ICE,Intercontinental Exchange Inc.,Financial Services,19.81,High
+INTC,Intel Corp,Technology,13.81,Low
+INCY,Incyte Genomics Inc,Healthcare,32.69,High
+ILMN,Illumina Inc,Healthcare,23.82,High
+ITW,Illinois Tool Works Inc.,Industrials,13.24,Low
+IDXX,Idexx Laboratories Inc,Healthcare,16.57,Moderate
+HBAN,Huntington Bancshares Inc,Financial Services,16.82,Moderate
+HUM,Humana Inc.,Healthcare,31.48,High
+HPQ,Hp Inc.,Technology,10.76,Low
+HST,"Host Hotels & Resorts, Inc.",Real Estate,7.86,Low
+HRL,Hormel Foods Corporation,Consumer Defensive,15.96,Moderate
+HON,"Honeywell International, Inc.",Industrials,11.3,Low
+HD,"Home Depot, Inc.",Consumer Cyclical,9.12,Low
+HOLX,Hologic Inc,Healthcare,22.07,High
+HLT,Hilton Worldwide Holdings Inc.,Consumer Cyclical,8.92,Low
+HPE,Hewlett Packard Enterprise Company,Technology,8.77,Low
+HES,Hess Corporation,Energy,24.76,High
+HSIC,Henry Schein Inc,Healthcare,7.55,Low
+HCA,"Hca Healthcare, Inc.",Healthcare,27.79,High
+HAS,"Hasbro, Inc.",Consumer Cyclical,10.51,Low
+HAL,Halliburton Company,Energy,8.06,Low
+GS,Goldman Sachs Group Inc.,Financial Services,24.8,High
+GL,Globe Life Inc.,Financial Services,16.66,Moderate
+GPN,"Global Payments, Inc.",Industrials,19.01,Moderate
+GILD,Gilead Sciences Inc,Healthcare,24.1,High
+GPC,Genuine Parts Company,Consumer Cyclical,8.65,Low
+GM,General Motors Company,Consumer Cyclical,20.88,High
+GIS,"General Mills, Inc.",Consumer Defensive,13.31,Low
+GE,General Electric Company,Industrials,8.65,Low
+GD,General Dynamics Corporation,Industrials,25.5,High
+GEN,Gen Digital Inc.,Technology,9.78,Low
+IT,"Gartner, Inc.",Technology,26.9,High
+GRMN,Garmin Ltd,Technology,21.83,High
+FCX,Freeport-Mcmoran Inc.,Basic Materials,23.56,High
+BEN,"Franklin Resources, Inc.",Financial Services,15.4,Moderate
+FTV,Fortive Corporation,Technology,33.46,High
+FTNT,"Fortinet, Inc.",Technology,18.17,Moderate
+F,Ford Motor Company,Consumer Cyclical,10.65,Low
+FMC,Fmc Corporation,Basic Materials,23.95,High
+FI,"Fiserv, Inc.",Technology,8.31,Low
+FE,Firstenergy Corp.,Utilities,14.2,Moderate
+FITB,Fifth Third Bancorp,Financial Services,12.49,Low
+FIS,"Fidelity National Information Services, Inc.",Technology,14.03,Moderate
+FDX,Fedex Corporation,Industrials,7.93,Low
+FRT,Federal Realty Investment Trust,Real Estate,7.89,Low
+FAST,Fastenal Co,Industrials,6.37,Low
+FDS,Factset Research Systems,Financial Services,15.19,Moderate
+FFIV,"F5, Inc.",Technology,12.81,Low
+XOM,Exxon Mobil Corporation,Energy,26.09,High
+EXR,"Extra Space Storage, Inc.",Real Estate,10.86,Low
+EXPD,"Expeditors International of Washington, Inc.",Industrials,8.96,Low
+EXPE,"Expedia Group, Inc.",Consumer Cyclical,18.2,Moderate
+EXC,Exelon Corporation,Utilities,12.49,Low
+ES,Eversource Energy,Utilities,9.27,Low
+EG,"Everest Group, Ltd.",Financial Services,19.49,Moderate
+ESS,"Essex Property Trust, Inc",Real Estate,8.06,Low
+EQR,Equity Residential,Real Estate,7.82,Low
+EQIX,"Equinix, Inc. Reit",Real Estate,8.63,Low
+EFX,"Equifax, Incorporated",Industrials,31.0,High
+EQT,Eqt Corp,Energy,29.39,High
+EOG,"Eog Resources, Inc.",Energy,33.92,High
+ETR,Entergy Corporation,Utilities,17.8,Moderate
+EMR,Emerson Electric Co.,Industrials,23.76,High
+LLY,Eli Lilly & Co.,Healthcare,18.8,Moderate
+ELV,"Elevance Health, Inc.",Healthcare,11.42,Low
+EA,Electronic Arts Inc,Communication Services,15.35,Moderate
+EW,Edwards Lifesciences Corp,Healthcare,15.39,Moderate
+EIX,Edison International,Utilities,17.6,Moderate
+ECL,"Ecolab, Inc.",Basic Materials,8.17,Low
+EBAY,Ebay Inc,Consumer Cyclical,8.88,Low
+ETN,"Eaton Corporation, Plcs",Industrials,11.93,Low
+DD,"Dupont De Nemours, Inc.",Basic Materials,18.24,Moderate
+DUK,Duke Energy Corporation,Utilities,17.05,Moderate
+DTE,Dte Energy Company,Utilities,21.49,High
+DOV,Dover Corporation,Industrials,23.22,High
+D,"Dominion Energy, Inc",Utilities,13.84,Low
+DLTR,Dollar Tree Inc.,Consumer Defensive,21.71,High
+DG,Dollar General Corp.,Consumer Defensive,10.2,Low
+DFS,Discover Financial Services,Financial Services,23.06,High
+DXCM,"Dexcom, Inc.",Healthcare,18.99,Moderate
+DVN,Devon Energy Corporation,Energy,21.2,High
+DAL,"Delta Air Lines, Inc.",Industrials,20.44,High
+DE,Deere & Company,Industrials,14.8,Moderate
+DHR,Danaher Corporation,Healthcare,8.39,Low
+DHI,D.R. Horton Inc.,Consumer Cyclical,7.54,Low
+CVS,Cvs Health Corporation,Healthcare,30.84,High
+CMI,Cummins Inc.,Industrials,5.89,Low
+CSX,Csx Corporation,Industrials,12.89,Low
+CTRA,Coterra Energy Inc.,Energy,26.41,High
+COST,Costco Wholesale Corp,Consumer Defensive,16.73,Moderate
+CSGP,Costar Group Inc,Real Estate,16.62,Moderate
+GLW,Corning Incorporated,Technology,3.05,Low
+CPRT,Copart Inc,Industrials,16.59,Moderate
+STZ,"Constellation Brands, Inc.",Consumer Defensive,13.05,Low
+ED,"Consolidated Edison, Inc.",Utilities,14.94,Moderate
+COP,Conocophillips,Energy,20.4,High
+CAG,"Conagra Brands, Inc.",Consumer Defensive,24.51,High
+CMA,Comerica Incorporated,Financial Services,19.91,High
+CMCSA,Comcast Corp,Communication Services,12.88,Low
+CL,Colgate-Palmolive Company,Consumer Defensive,12.01,Low
+CTSH,Cognizant Technology Solutions,Technology,11.57,Low
+KO,Coca-Cola Company,Consumer Defensive,16.48,Moderate
+CMS,Cms Energy Corporation,Utilities,10.26,Low
+CME,Cme Group Inc.,Financial Services,17.09,Moderate
+CLX,Clorox Company,Consumer Defensive,9.41,Low
+CFG,"Citizens Financial Group, Inc.",Financial Services,19.25,Moderate
+C,Citigroup Inc.,Financial Services,30.41,High
+CSCO,"Cisco Systems, Inc.",Technology,11.93,Low
+CTAS,Cintas Corp,Industrials,11.54,Low
+CINF,Cincinnati Financial Corp,Financial Services,29.57,High
+CHD,"Church & Dwight Co., Inc.",Consumer Defensive,12.75,Low
+CB,Chubb Limited,Financial Services,20.25,High
+CMG,"Chipotle Mexican Grill, Inc.",Consumer Cyclical,13.39,Low
+CVX,Chevron Corporation,Energy,12.58,Low
+CHTR,Charter Comm Inc Del Cl a,Communication Services,9.91,Low
+CF,"Cf Industries Holding, Inc.",Basic Materials,27.88,High
+CNP,"Centerpoint Energy, Inc.",Utilities,18.03,Moderate
+CNC,Centene Corporation,Healthcare,23.64,High
+COR,"Cencora, Inc.",Healthcare,18.69,Moderate
+CE,Celanese Corporation,Basic Materials,19.1,Moderate
+CBRE,"Cbre Group, Inc.",Real Estate,4.02,Low
+CBOE,"Cboe Global Markets, Inc.",Financial Services,20.73,High
+CAT,Caterpillar Inc.,Industrials,23.57,High
+CCL,Carnival Corporation,Consumer Cyclical,16.45,Moderate
+KMX,Carmax Inc.,Consumer Cyclical,15.46,Moderate
+CAH,"Cardinal Health, Inc.",Healthcare,18.87,Moderate
+COF,Capital One Financial,Financial Services,24.52,High
+CPB,Campbell Soup Company,Consumer Defensive,14.6,Moderate
+CPT,Camden Property Trust,Real Estate,12.97,Low
+CHRW,"C.H. Robinson Worldwide, Inc.",Industrials,16.21,Moderate
+BG,Bunge Global Sa,Consumer Defensive,20.83,High
+BRO,"Brown & Brown, Inc.",Financial Services,25.31,High
+BR,Broadridge Financial Solutions Inc,Technology,8.56,Low
+AVGO,Broadcom Inc.,Technology,12.85,Low
+BMY,Bristol-Myers Squibb Co.,Healthcare,24.02,High
+BSX,Boston Scientific Corp.,Healthcare,17.55,Moderate
+BXP,"Boston Properties, Inc.",Real Estate,7.54,Low
+BWA,Borgwarner Inc.,Consumer Cyclical,5.9,Low
+BKNG,Booking Holdings Inc.,Consumer Cyclical,20.22,High
+BA,Boeing Company,Industrials,32.68,High
+BX,Blackstone Inc.,Financial Services,17.81,Moderate
+BLK,"Blackrock, Inc.",Financial Services,16.32,Moderate
+BIIB,Biogen Inc.,Healthcare,27.07,High
+BIO,"Bio-Rad Laboratories, Inc.Class A",Healthcare,17.92,Moderate
+BBY,"Best Buy Company, Inc.",Consumer Cyclical,14.11,Moderate
+BRK-B,Berkshire Hathaway Class B,Financial Services,33.17,High
+BDX,"Becton, Dickinson and Co.",Healthcare,21.76,High
+BAX,Baxter International Inc.,Healthcare,22.06,High
+BBWI,"Bath & Body Works, Inc.",Consumer Cyclical,14.85,Moderate
+BK,Bank of New York Mellon Corporation,Financial Services,17.87,Moderate
+BAC,Bank of America Corporation,Financial Services,25.56,High
+BALL,Ball Corporation,Consumer Cyclical,15.03,Moderate
+AVY,Avery Dennison Corp.,Consumer Cyclical,22.09,High
+AVB,"Avalonbay Communities, Inc.",Real Estate,5.53,Low
+AZO,"Autozone, Inc.",Consumer Cyclical,14.29,Moderate
+ADP,Automatic Data Processing,Industrials,9.1,Low
+ATO,Atmos Energy Corporation,Utilities,20.73,High
+T,At&t Inc.,Communication Services,22.28,High
+AIZ,"Assurant, Inc.",Financial Services,21.17,High
+AJG,Arthur J. Gallagher & Co.,Financial Services,21.18,High
+ANET,Arista Networks,Technology,18.57,Moderate
+ADM,Archer Daniels Midland Company,Consumer Defensive,22.7,High
+ACGL,Arch Capital Group Ltd,Financial Services,19.11,Moderate
+APTV,Aptiv Plc,Consumer Cyclical,6.89,Low
+AMAT,Applied Materials Inc,Technology,7.73,Low
+AAPL,Apple Inc.,Technology,20.54,High
+APA,Apa Corporation,Energy,28.97,High
+ADI,"Analog Devices, Inc.",Technology,15.79,Moderate
+APH,Amphenol Corporation,Technology,5.26,Low
+AMGN,Amgen Inc,Healthcare,24.82,High
+AME,"Ametek, Inc.",Industrials,16.48,Moderate
+AMP,"Ameriprise Financial, Inc.",Financial Services,15.09,Moderate
+AWK,"American Water Works Company, Inc",Utilities,16.79,Moderate
+AMT,American Tower Corporation,Real Estate,5.96,Low
+AIG,"American International Group, Inc.",Financial Services,22.98,High
+AXP,American Express Company,Financial Services,18.31,Moderate
+AEP,"American Electric Power Company, Inc.",Utilities,15.31,Moderate
+AAL,American Airlines Group Inc.,Industrials,16.96,Moderate
+AEE,Ameren Corporation,Utilities,16.28,Moderate
+AMZN,Amazon.com Inc,Consumer Cyclical,18.38,Moderate
+MO,"Altria Group, Inc.",Consumer Defensive,24.41,High
+GOOGL,Alphabet Inc. Class A,Communication Services,28.55,High
+ALB,Albemarle Corporation,Basic Materials,20.4,High
+AKAM,Akamai Technologies Inc,Technology,12.94,Low
+APD,"Air Products & Chemicals, Inc.",Basic Materials,14.02,Moderate
+A,Agilent Technologies Inc.,Healthcare,9.91,Low
+AFL,Aflac Inc.,Financial Services,21.11,High
+AES,Aes Corporation,Utilities,16.59,Moderate
+ADBE,Adobe Inc.,Technology,8.42,Low
+ACN,Accenture Plc,Technology,9.64,Low
+ABBV,Abbvie Inc.,Healthcare,27.16,High
+ABT,Abbott Laboratories,Healthcare,22.87,High
+AOS,A.O. Smith Corporation,Industrials,21.15,High
+MMM,3m Company,Industrials,32.41,High
